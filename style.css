@@ -28,7 +28,7 @@ body, html {
     top: 0;
     bottom: 60px;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 	display: -webkit-flex;
    display: flex;
    -webkit-flex-direction: column;/* works with row or column */
