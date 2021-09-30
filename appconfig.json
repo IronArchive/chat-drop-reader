@@ -1,8 +1,8 @@
 {
-	"appName": "Testing",
-	"description": "testing again",
-	"appUrl": "/apps/alt1/meg/",
-	"configUrl": "/apps/alt1/meg/appconfig.json",
+	"appName": "Hello world?",
+	"description": "Does this count as a hello world?",
+	"appUrl": "https://IronArchive.github.io/chat-drop-reader/",
+	"configUrl": "https://raw.githubusercontent.com/IronArchive/chat-drop-reader/main/appconfig.json",
 	"iconUrl": "/apps/alt1/meg/icon.png",
 	"defaultWidth": 300,
 	"defaultHeight": 120,
