@@ -10,11 +10,11 @@ body, html {
 }
 
 #container.paused {
-    background-color: #E87E04;
+    background-color: #000000;
 }
 
 #container.alert {
-    background-color: red;
+    background-color: black;
 }
 
 #container.ok {
